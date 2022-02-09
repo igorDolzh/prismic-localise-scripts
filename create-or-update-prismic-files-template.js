@@ -54,6 +54,11 @@ function processFile(filename, vocab) {
         iterateKeys(jsonFile, jsonFile)
         jsonFile.lang = LOCALE
         const outputFile = UPDATE_OR_CREATE === "CREATE" ? `translate_${jsonFile.grouplang}_${LOCALE}.json` : filename
+
+        if (!fs.existsSync(OUTPUT_FOLDER_WITH_TRANSLATION_FILES)) {
+            fs.mkdirSync(OUTPUT_FOLDER_WITH_TRANSLATION_FILES)
+        }
+        
         fs.writeFileSync(
             `${OUTPUT_FOLDER_WITH_TRANSLATION_FILES}/${outputFile}`,
             JSON.stringify(jsonFile)
@@ -64,7 +69,7 @@ function processFile(filename, vocab) {
 fs.readdir(`${FOLDER_WITH_PRISMIC_FILES}/`, function(err, list) {
     const vocab = fs.readFileSync(SOURCE_FILE_WITH_TRANLSATIONS);
     const vocabParsed = JSON.parse(vocab)
-    for (const i = 0; i < list.length; i++) {
+    for (let i = 0; i < list.length; i++) {
         const filename = list[i];
         processFile(filename, vocabParsed)
     }

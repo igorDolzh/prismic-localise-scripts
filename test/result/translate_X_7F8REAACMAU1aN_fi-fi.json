@@ -1,0 +1,302 @@
+{
+  "prismic_title": "Tiimi – HR",
+  "uid": "for-hr",
+  "body": [
+    {
+      "key": "hero$53c0051f-27b8-41e0-b351-a1b79cdb2302",
+      "value": {
+        "repeat": [{}],
+        "non-repeat": {
+          "inverse": false,
+          "title": "Pysy liikkeellä Pleon älykkäiden yrityskorttien avulla.",
+          "lead_text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Jokaisessa tiimissä on ihmisiä, jotka pitävät hommat käynnissä. Pleon avulla nämä avainpelaajat voivat maksaa asioista, joita yritys tarvitsee, oli se sitten suurta tai pientä.",
+                "spans": []
+              }
+            }
+          ],
+          "show_email_signup": true,
+          "show_stars_under_email_signup": false,
+          "wistia_video_id": "xjz3cirruj",
+          "predefined_signup_banner": {
+            "id": "XymovhEAACYABewa",
+            "wioUrl": "wio://documents/XymovhEAACYABewa"
+          },
+          "image": {
+            "origin": {
+              "id": "X_7GPxEAACMAU1fu",
+              "url": "https://prismic-io.s3.amazonaws.com/commercial-helios/9dd9978b-29b6-4d17-af29-4c33499f4890_team_pages_hr.jpg",
+              "width": 1200,
+              "height": 1320
+            },
+            "width": 1200,
+            "height": 1320,
+            "url": "https://images.prismic.io/commercial-helios/9dd9978b-29b6-4d17-af29-4c33499f4890_team_pages_hr.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": { "x": 0, "y": 0 }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": "imgix",
+            "thumbnails": {}
+          }
+        }
+      }
+    },
+    {
+      "key": "feature_block$d012944d-7b82-4f2e-98e4-c3b72e79feaf",
+      "value": {
+        "repeat": [{}],
+        "non-repeat": {
+          "inverse": true,
+          "background": "default",
+          "title_over_section": "Miksi henkilöstötiimit tykkäävät Pleosta?",
+          "title": "Kuittien tallennus digitaalisesti",
+          "image": {
+            "origin": {
+              "id": "X_7GPhEAACIAU1fn",
+              "url": "https://prismic-io.s3.amazonaws.com/commercial-helios/67e3995f-d237-48ee-998f-d35448670631_digital+receipt-capture.jpg",
+              "width": 1200,
+              "height": 1130
+            },
+            "width": 1200,
+            "height": 1130,
+            "url": "https://images.prismic.io/commercial-helios/67e3995f-d237-48ee-998f-d35448670631_digital+receipt-capture.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": { "x": 0, "y": 0 }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": "imgix",
+            "thumbnails": {}
+          }
+        }
+      }
+    },
+    {
+      "key": "video_hero$43b90c12-c871-4e75-9ee4-8f1505b84559",
+      "value": {
+        "repeat": [{}],
+        "non-repeat": {
+          "title": "Keskitä tilaukset ja säännölliset menot",
+          "inverse": false,
+          "video_mp4": {
+            "id": "YBJ9bREAACIAxJ9I",
+            "url": "https://prismic-io.s3.amazonaws.com/commercial-helios/fedfc476-ee51-4d41-82b6-3b7cc8d07c6e_07_Cetralised_spending_01.mp4",
+            "name": "07_Cetralised_spending_01.mp4",
+            "kind": "document",
+            "date": "01/27/21 22:52",
+            "size": "1294746",
+            "wioUrl": "wio://medias/YBJ9bREAACIAxJ9I"
+          }
+        }
+      }
+    },
+    {
+      "key": "video_hero$d4ea5cf8-888a-4421-814c-165b81f6482a",
+      "value": {
+        "repeat": [{}],
+        "non-repeat": {
+          "title": "Virtuaaliset ja fyysiset maksukortit",
+          "inverse": true,
+          "video_mp4": {
+            "id": "YBJ9bREAACIAxJ9J",
+            "url": "https://prismic-io.s3.amazonaws.com/commercial-helios/83b8e1d0-9810-4703-a334-f8393d9e932e_03_Virtual-and-physicalspenidngCards_01.mp4",
+            "name": "03_Virtual-and-physicalspenidngCards_01.mp4",
+            "kind": "document",
+            "date": "01/27/21 22:40",
+            "size": "2481866",
+            "wioUrl": "wio://medias/YBJ9bREAACIAxJ9J"
+          }
+        }
+      }
+    },
+    {
+      "key": "video_hero$b849a8d1-6bc2-4ab3-a64d-d150e1d6dcc4",
+      "value": {
+        "repeat": [{}],
+        "non-repeat": {
+          "title": "Hallinnoi omasta taskusta maksettuja kuluja",
+          "inverse": false,
+          "lead_text": [
+            { "type": "paragraph", "content": { "text": "", "spans": [] } }
+          ],
+          "video_mp4": {
+            "id": "X_7GRxEAACAAU1gX",
+            "url": "https://prismic-io.s3.amazonaws.com/commercial-helios/967b2aa2-5402-475e-9204-11f1e23fa5c8_out+of+pocket.mp4",
+            "name": "out of pocket.mp4",
+            "kind": "document",
+            "date": "01/13/21 10:06",
+            "size": "1863176",
+            "wioUrl": "wio://medias/X_7GRxEAACAAU1gX"
+          }
+        }
+      }
+    },
+    {
+      "key": "feature_grid$fc11b1de-28ed-4202-927a-bc7f92922cbd",
+      "value": {
+        "repeat": [
+          {
+            "predefined_feature": {
+              "id": "X_yDPxEAACAASYP0",
+              "wioUrl": "wio://documents/X_yDPxEAACAASYP0"
+            }
+          },
+          {
+            "predefined_feature": {
+              "id": "X_yD6hEAACIASYaz",
+              "wioUrl": "wio://documents/X_yD6hEAACIASYaz"
+            }
+          },
+          {
+            "predefined_feature": {
+              "id": "X_yEIREAACMASYeI",
+              "wioUrl": "wio://documents/X_yEIREAACMASYeI"
+            }
+          }
+        ],
+        "non-repeat": { "title": "Näin se toimii", "background": "default" }
+      }
+    },
+    {
+      "key": "feature_block$3e082f37-0d75-4fc1-ae46-6594112e2c6e",
+      "value": {
+        "repeat": [{}],
+        "non-repeat": {
+          "inverse": false,
+          "background": "default",
+          "title": "Tarvitsetko kiireellisesti putkimiehen – tai kahvia?",
+          "description": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Pleon avulla voit maksaa kaiken, mitä tiimisi tarvitsee, ja seurata kuluja reaaliaikaisesti.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "X_7E_REAACMAU1I3",
+              "url": "https://prismic-io.s3.amazonaws.com/commercial-helios/4c0dd9c9-16f5-4464-8117-49ccb52b1d4a_in+a+cab+or+in+a+plane.jpg",
+              "width": 1200,
+              "height": 1130
+            },
+            "width": 1200,
+            "height": 1130,
+            "url": "https://images.prismic.io/commercial-helios/4c0dd9c9-16f5-4464-8117-49ccb52b1d4a_in+a+cab+or+in+a+plane.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": { "x": 0, "y": 0 }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": "imgix",
+            "thumbnails": {}
+          }
+        }
+      }
+    },
+    {
+      "key": "social_proof$f3c0572b-48b0-432c-b6df-10f5fd20943f",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "X_7GRBEAACEAU1gH",
+                "url": "https://prismic-io.s3.amazonaws.com/commercial-helios/fede71c7-722c-439b-8f70-45c1e3046123_Forza+Football+%282%29.png",
+                "width": 1200,
+                "height": 1166
+              },
+              "width": 1200,
+              "height": 1166,
+              "url": "https://images.prismic.io/commercial-helios/fede71c7-722c-439b-8f70-45c1e3046123_Forza+Football+%282%29.png?auto=compress,format",
+              "edit": {
+                "background": "transparent",
+                "zoom": 1,
+                "crop": { "x": 0, "y": 0 }
+              },
+              "credits": null,
+              "alt": null,
+              "provider": "imgix",
+              "thumbnails": {}
+            },
+            "quote": "Pidän tavasta, jolla Pleo antaa työntekijöiden keskittyä työskentelyyn, motivoi heitä ja antaa mahdollisuuden työskennellä itsenäisesti.",
+            "full_name": "Jonas Linné,",
+            "person_byline": "Forza Football"
+          }
+        ],
+        "non-repeat": { "inverse": true }
+      }
+    },
+    {
+      "key": "customers_logos_plus_headline$d656dc3f-1053-402b-a275-61892627550d",
+      "value": {
+        "repeat": [{}],
+        "non-repeat": {
+          "predefined_logos": {
+            "id": "X_XZiREAACEALJZi",
+            "wioUrl": "wio://documents/X_XZiREAACEALJZi"
+          }
+        }
+      }
+    },
+    {
+      "key": "ratings_plus_headline$f2fe549c-6aa6-411b-a81f-4cd59812c25c",
+      "value": {
+        "repeat": [{}],
+        "non-repeat": {
+          "predefined_ratings": {
+            "id": "XzpWuxAAACgAD4sA",
+            "wioUrl": "wio://documents/XzpWuxAAACgAD4sA"
+          }
+        }
+      }
+    },
+    {
+      "key": "get_started$04b0dc8b-6025-4d89-9043-f062f3ecae3c",
+      "value": {
+        "repeat": [{}],
+        "non-repeat": {
+          "predefined_signup_banner": {
+            "id": "XymovhEAACYABewa",
+            "wioUrl": "wio://documents/XymovhEAACYABewa"
+          }
+        }
+      }
+    }
+  ],
+  "meta_title": "Kulutusratkaisu henkilöstötiimeille",
+  "exclude_robots": false,
+  "meta_description": "Pleon avulla voit käyttää rahaa asioihin, joilla kasvatat liiketoimintaasi.",
+  "open_graph_image": {
+    "origin": {
+      "id": "X_7IEREAACAAU2Ac",
+      "url": "https://prismic-io.s3.amazonaws.com/commercial-helios/37ce2030-c715-4aa6-a4be-22fc43ca4eeb_Meta+Image+HR.jpg",
+      "width": 3800,
+      "height": 2000
+    },
+    "width": 3800,
+    "height": 2000,
+    "url": "https://images.prismic.io/commercial-helios/37ce2030-c715-4aa6-a4be-22fc43ca4eeb_Meta+Image+HR.jpg?auto=compress,format",
+    "edit": { "background": "#fff", "zoom": 1, "crop": { "x": 0, "y": 0 } },
+    "credits": null,
+    "alt": null,
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "type": "slice_page",
+  "tags": [],
+  "lang": "fi-fi",
+  "grouplang": "X_7F8REAACMAU1aN"
+}

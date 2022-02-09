@@ -1,7 +1,7 @@
 const fs = require('fs');
 
-const FOLDER_WITH_PRISMIC_FILES = ""
-const OUTPUT_JSON_FILE = ""
+const FOLDER_WITH_PRISMIC_FILES = "20-12-2021"
+const OUTPUT_JSON_FILE = "extracted-messages.json"
 const EXTRA_CONDITIONS_FUNCTION = () => {
     return true
 }
